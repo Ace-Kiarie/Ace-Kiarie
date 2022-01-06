@@ -1,6 +1,6 @@
 ### Hi there, I'm Peter aka ace [website]👋 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer, Producer, and Creator
 
 - 🔭 I just launched my first retro game webapp.
 - 🌱 I’m currently learning the MERN stack 🤣
