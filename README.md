@@ -5,7 +5,7 @@
 - 🔭 I just launched my first retro game webapp.
 - 🌱 I’m currently learning the MERN stack 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute to an Open Source projects
+- 🥅 2023 Goals: Contribute to an Open Source projects
 - ⚡ Fun fact: I love to make music(produce) and play guitar / drums / keyboard
 
 ### Connect with me:
