@@ -1,8 +1,8 @@
 ### Hi there, I'm Peter aka ace [website]👋 
 
-## I'm a Developer, Producer, and Creator
+## I'm a Developer, Creator, and Producer.
 
-- 🔭 I just launched my first retro game webapp.
+- 🔭 I just deployed my first fullsatack webapp.
 - 🌱 I’m currently learning the MERN stack 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute to an Open Source projects
